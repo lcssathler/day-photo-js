@@ -1,5 +1,5 @@
 # Horário do Dia
-Primeiro projeto em Javascript que exibe diferentes imagens de acordo com o horário atual do dispositivo.
+Developed web project that displays different photos of the day according to the current time.
 
 ## Linguagens utilizadas
 * Javascript
